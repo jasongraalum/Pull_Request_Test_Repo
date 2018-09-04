@@ -2,6 +2,8 @@ Last Initial   | First       | Favorite Movie                | Least Favorite Mo
 G              | Jason       | Doctor Strange Love           | Highlander II                  |
 S              | Peter       | Return of the Pink Panther    | Highlander II                  |
 L              | Tom         | The Secrets In Their Eyes     | Twilight                       |
+W              | Wenders     | Paris Texas                   | The Shape of Water             |
+M              | William     | My Neighbor Totoro            | Magnolia                       |
                |             |                               |                                |
                |             |                               |                                |
                |             |                               |                                |
