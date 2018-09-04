@@ -1,6 +1,7 @@
 Last Initial   | First       | Favorite Movie                | Least Favorite Movie           |
 G              | Jason       | Doctor Strange Love           | Highlander II                  |
 S              | Peter       | Return of the Pink Panther    | Highlander II                  |
+W              | Aidan       | The Lion King                 | Jurassic Park III              |
 R              | Keanu       | The Matrix                    | Earth in the Balance           |
 L              | Tom         | The Secrets In Their Eyes     | Twilight                       |
 W              | Wenders     | Paris Texas                   | The Shape of Water             |
